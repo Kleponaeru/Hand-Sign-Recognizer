@@ -28,4 +28,4 @@ Source: www.Kaggle.com
    pip install tensorflow opencv-python numpy
 3. Run the project:
    ```bash
-   python recognize_signs.py
+   python recognize_gesture.py
