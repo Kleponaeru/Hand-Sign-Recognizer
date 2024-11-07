@@ -15,19 +15,17 @@ Hand Sign Recognizer is a machine learning-based project that detects and interp
 - OpenCV for capturing and processing real-time video
 - NumPy for data manipulation
 
-## Dataset
-www.Kaggle.com
+## Dataset 
+Source: www.Kaggle.com
 
 ## Setup
-
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/hand-sign-recognizer.git
    cd hand-sign-recognizer
 2. Install the requirements:
-  ```bash
-  pip install tensorflow opencv-python numpy
-
+   ```bash
+   pip install tensorflow opencv-python numpy
 3. Run the project:
-```bash
-python recognize_signs.py
+   ```bash
+   python recognize_signs.py
